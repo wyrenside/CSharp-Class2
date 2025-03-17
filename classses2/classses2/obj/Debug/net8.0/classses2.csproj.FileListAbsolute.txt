@@ -1,0 +1,14 @@
+C:\Users\nurlan\Desktop\classlar\classses2\classses2\bin\Debug\net8.0\classses2.exe
+C:\Users\nurlan\Desktop\classlar\classses2\classses2\bin\Debug\net8.0\classses2.deps.json
+C:\Users\nurlan\Desktop\classlar\classses2\classses2\bin\Debug\net8.0\classses2.runtimeconfig.json
+C:\Users\nurlan\Desktop\classlar\classses2\classses2\bin\Debug\net8.0\classses2.dll
+C:\Users\nurlan\Desktop\classlar\classses2\classses2\bin\Debug\net8.0\classses2.pdb
+C:\Users\nurlan\Desktop\classlar\classses2\classses2\obj\Debug\net8.0\classses2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nurlan\Desktop\classlar\classses2\classses2\obj\Debug\net8.0\classses2.AssemblyInfoInputs.cache
+C:\Users\nurlan\Desktop\classlar\classses2\classses2\obj\Debug\net8.0\classses2.AssemblyInfo.cs
+C:\Users\nurlan\Desktop\classlar\classses2\classses2\obj\Debug\net8.0\classses2.csproj.CoreCompileInputs.cache
+C:\Users\nurlan\Desktop\classlar\classses2\classses2\obj\Debug\net8.0\classses2.dll
+C:\Users\nurlan\Desktop\classlar\classses2\classses2\obj\Debug\net8.0\refint\classses2.dll
+C:\Users\nurlan\Desktop\classlar\classses2\classses2\obj\Debug\net8.0\classses2.pdb
+C:\Users\nurlan\Desktop\classlar\classses2\classses2\obj\Debug\net8.0\classses2.genruntimeconfig.cache
+C:\Users\nurlan\Desktop\classlar\classses2\classses2\obj\Debug\net8.0\ref\classses2.dll
