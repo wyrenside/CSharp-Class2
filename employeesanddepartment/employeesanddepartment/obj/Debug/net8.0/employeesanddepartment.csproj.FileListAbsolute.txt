@@ -1,0 +1,15 @@
+C:\Users\nurlan\Desktop\classlar\employeesanddepartment\employeesanddepartment\obj\Debug\net8.0\employeesanddepartment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nurlan\Desktop\classlar\employeesanddepartment\employeesanddepartment\obj\Debug\net8.0\employeesanddepartment.AssemblyInfoInputs.cache
+C:\Users\nurlan\Desktop\classlar\employeesanddepartment\employeesanddepartment\obj\Debug\net8.0\employeesanddepartment.AssemblyInfo.cs
+C:\Users\nurlan\Desktop\classlar\employeesanddepartment\employeesanddepartment\obj\Debug\net8.0\employeesanddepartment.csproj.CoreCompileInputs.cache
+C:\Users\nurlan\Desktop\classlar\employeesanddepartment\employeesanddepartment\obj\Debug\net8.0\employeesanddepartment.sourcelink.json
+C:\Users\nurlan\Desktop\classlar\employeesanddepartment\employeesanddepartment\bin\Debug\net8.0\employeesanddepartment.exe
+C:\Users\nurlan\Desktop\classlar\employeesanddepartment\employeesanddepartment\bin\Debug\net8.0\employeesanddepartment.deps.json
+C:\Users\nurlan\Desktop\classlar\employeesanddepartment\employeesanddepartment\bin\Debug\net8.0\employeesanddepartment.runtimeconfig.json
+C:\Users\nurlan\Desktop\classlar\employeesanddepartment\employeesanddepartment\bin\Debug\net8.0\employeesanddepartment.dll
+C:\Users\nurlan\Desktop\classlar\employeesanddepartment\employeesanddepartment\bin\Debug\net8.0\employeesanddepartment.pdb
+C:\Users\nurlan\Desktop\classlar\employeesanddepartment\employeesanddepartment\obj\Debug\net8.0\employeesanddepartment.dll
+C:\Users\nurlan\Desktop\classlar\employeesanddepartment\employeesanddepartment\obj\Debug\net8.0\refint\employeesanddepartment.dll
+C:\Users\nurlan\Desktop\classlar\employeesanddepartment\employeesanddepartment\obj\Debug\net8.0\employeesanddepartment.pdb
+C:\Users\nurlan\Desktop\classlar\employeesanddepartment\employeesanddepartment\obj\Debug\net8.0\employeesanddepartment.genruntimeconfig.cache
+C:\Users\nurlan\Desktop\classlar\employeesanddepartment\employeesanddepartment\obj\Debug\net8.0\ref\employeesanddepartment.dll
